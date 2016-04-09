@@ -1,0 +1,8 @@
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\bin\Debug\CreateExcelFromEPPlus.exe.config
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\bin\Debug\CreateExcelFromEPPlus.exe
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\bin\Debug\CreateExcelFromEPPlus.pdb
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\bin\Debug\EPPlus.dll
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\bin\Debug\EPPlus.xml
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\obj\Debug\CreateExcelFromEPPlus.csprojResolveAssemblyReference.cache
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\obj\Debug\CreateExcelFromEPPlus.exe
+E:\Excel\EPPLUS\Internet\CreateExcelFromEPPlus\CreateExcelFromEPPlus\obj\Debug\CreateExcelFromEPPlus.pdb
